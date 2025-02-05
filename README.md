@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SimonLiu423.SimonLiu423)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SimonLiu423.SimonLiu423) -->
 ![mental](https://img.shields.io/badge/Mental-Stable-pink?style=flat-square&logo=githubsponsors&logoColor=white)
 ![status](https://img.shields.io/badge/Status-Single-red?style=flat-square&logo=southwestairlines&logoColor=white)
 
@@ -79,10 +79,14 @@ Colored badges are what I'm more familiar with.
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-FFFFFF?style=for-the-badge&logo=Cloudflare&logoColor=black)](https://www.cloudflare.com/)
 [![Nginx](https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black)](https://www.f5.com/go/product/welcome-to-nginx)
 
+
 ### OS:
 
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif"  />
 
 ## ☎️ Connect with me
 
@@ -96,22 +100,9 @@ Colored badges are what I'm more familiar with.
 
 ---
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SimonLiu423&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimonLiu423&hide=SWIG,CMake,Makefile,Verilog&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif"  />
-
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/SimonLiu423/SimonLiu423/output/snake.svg" alt="Snake animation" />
-
-###
