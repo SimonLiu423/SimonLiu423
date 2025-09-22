@@ -3,8 +3,6 @@
 <div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SimonLiu423.SimonLiu423)
-![mental](https://img.shields.io/badge/Mental-Stable-pink?style=flat-square&logo=githubsponsors&logoColor=white)
-![status](https://img.shields.io/badge/Status-%3C3-pink?style=flat-square&logo=southwestairlines&logoColor=white)
 
 </div>
 
