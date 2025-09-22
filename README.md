@@ -91,7 +91,7 @@ Colored badges are what I'm more familiar with.
 ## ☎️ Connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simonliu423@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](www.linkedin.com/in/simonliu423)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/simonliu423)
 
 
 ## 💵 Support
