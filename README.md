@@ -17,7 +17,7 @@ Passionate about bringing my ideas to life, making life easier.
 
 - [2024 SITCON Hackathon](https://hackathon.sitcon.org/2024/) - Journaling app with AI-powered insights aimed to improve mental health: <font size=5 style="vertical-align:middle;display:inline">🥇</font> **First Prize** ([Project Repo](https://github.com/sitcon-hackathon2024-archive/team27_cc_diary)) 
 
-- [2023 Fun AI Camp (Advenced Group)](http://mislab.cs.nthu.edu.tw/explorecsr-2/index.html) - Train a RL model to play a kart racing game & compete with others: <font size=5 style="vertical-align:middle;display:inline">🥇</font> **First Prize** 
+- [2023 Fun AI Camp (Advenced Group)](http://mislab.cs.nthu.edu.tw/explorecsr-2/index.html) - Train a RL model to play a kart racing game & compete with others: <font size=5 style="vertical-align:middle;display:inline">🥇</font> **First Prize** ([Repo](https://github.com/SimonLiu423/FunAIKart))
 
 - 2022 ICPC Asia Taoyuan Regional Programming Contest: <img src="https://cdn-icons-png.flaticon.com/512/179/179250.png" width="25" height="25" style="vertical-align: middle;"> **Bronze Award**
 
