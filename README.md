@@ -7,7 +7,7 @@
 </div>
 
 ## 📖 About Me
-A junior Computer Science student at National Cheng Kung University(NCKU) from Taiwan.
+A senior Computer Science student at National Cheng Kung University(NCKU) from Taiwan.
 Passionate about bringing my ideas to life, making life easier.
 
 ## 🏆 Awards
