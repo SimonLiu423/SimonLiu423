@@ -1,7 +1,7 @@
 <h1 align="center">Simon Liu</h1>
 
 <p align="center">
-CS student at NCKU · Summer research intern at UC San Diego · I build things that make life easier
+CS student at NYCU · Summer research intern at UC San Diego
 </p>
 
 <p align="center">
@@ -11,12 +11,13 @@ CS student at NCKU · Summer research intern at UC San Diego · I build things t
 
 ## 👋 About Me
 
-A senior Computer Science student at National Cheng Kung University (NCKU) from Taiwan.
-Passionate about bringing my ideas to life, making life easier.
+A master's student at National Yang Ming Chiao Tung University (NYCU) from Taiwan.
+Passionate about bringing my ideas to life, currently interested in HCI!
 
 ## 💼 Experience
 
-- **Summer Research Intern** at Protolab, UC San Diego (2026/06 ~ present)
+- **Summer Research Intern** at [Protolab](https://protolab.ucsd.edu/), UC San Diego (2026/06 ~ present)
+- **Software/Firmware Engineer Intern** at [Delta Electronics, Inc.](https://www.deltaww.com/en-US/index) (2025/07 ~ 2026/04)
 - **Frontend Engineer (Flutter)** at [Orange Date](https://orangedate.com/brand-introduction) (2024/01 ~ 2024/07)
 - **Teaching Assistant** — NCKU CSIE, Program Design (2) (2024/02 ~ 2024/06)
 
